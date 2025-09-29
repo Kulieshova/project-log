@@ -1,4 +1,4 @@
-# ✨ Project log ✨
+# 🔥 Project log
 📝 Info about all my key projects and their development progress, including some of the future ones!
 
 | Symbol| Meaning|
